@@ -105,7 +105,7 @@ const Footer = () => {
                         </a>
                     </div>
                 </div>
-                <div className='flex justify-between w-2/4'>
+                <div className='flex justify-between gap-7 w-3/5'>
                     <div>
                         <h2 className='font-Lora font-semibold text-milkWhite text-2xl'>Quick Links</h2>
                         <ul className='mt-4'>
