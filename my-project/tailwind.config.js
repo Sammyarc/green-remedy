@@ -15,7 +15,8 @@ export default {
     fontFamily: {
       OpenSans: ["Open Sans", 'sans-serif'],
       Lora: ["Lora", 'serif'],
-      Poppins: ["Poppins", 'sans-serif']  
+      Poppins: ["Poppins", 'sans-serif'],
+      PublicSans:  ["Public Sans", 'sans-serif'] 
     },
 
     extend: {
@@ -28,6 +29,7 @@ export default {
         rating: '#FF9110',
         textColor: '#285434',
         lightTextColor: '#2F4F38',
+        darkTextColor: '#2F4F4F',
         milkWhite: '#F8F8FF',
       },
     },
