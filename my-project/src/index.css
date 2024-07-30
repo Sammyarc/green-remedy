@@ -24,4 +24,11 @@
     font-style: normal;
     src: url('./assets/Fonts/Poppins-Regular.ttf') format('truetype');
   }
+
+  @font-face {
+    font-family: 'Public Sans';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./assets/Fonts/PublicSans-Regular.ttf') format('truetype');
+  }
 }
