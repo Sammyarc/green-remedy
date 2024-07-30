@@ -8,6 +8,8 @@ import "aos/dist/aos.css";
 import Category from './components/Category/Category';
 import Footer from './components/Footer/Footer';
 import Product from './components/Products/Product';
+import Features from './components/Feature/Features';
+import Video from './components/Video/Video';
 
 const App = () => {
     React.useEffect(() => {
@@ -21,6 +23,8 @@ const App = () => {
         <Feature />
         <Category />
         <Product />
+        <Features />
+        <Video />
         <Footer />
     </div>
     );
